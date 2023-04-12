@@ -10860,7 +10860,8 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #000000 0%, #0f9b0f 100%);
+  /* background: linear-gradient(0deg, #000000 0%, #0f9b0f 100%); */
+  background-image: url(./../img/Adam\ jewelry.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
